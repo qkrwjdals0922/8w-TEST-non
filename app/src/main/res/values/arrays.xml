@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="school_str">
+        <item>학교를 선택하세요</item>
+        <item>경복대학교</item>
+        <item>서울대학교</item>
+        <item>이화여자대학교</item>
+        <item>연세대학교</item>
+        <item>고려대학교</item>
+        <item>서강대학교</item>
+    </string-array>
+
+    <string-array name="department_str">
+        <item>간호학과</item>
+        <item>스마트IT소프트웨어학과</item>
+        <item>치위생학과</item>
+        <item>물리치료학과</item>
+        <item>임상병리학과</item>
+        <item>작업치료학과</item>
+        <item>의료복지학과</item>
+        <item>의료미용과</item>
+        <item>치위생학과</item>
+        <item>IT보안과</item>
+        <item>건설환경디자인과</item>
+        <item>친환경건축과</item>
+    </string-array>
+
+</resources>
